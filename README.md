@@ -20,7 +20,7 @@ The **Review Scraper API** extracts reviews from any product page using **Playwr
 1. Clone the Repo & Install Dependencies
 
    ```bash
-   git clone https://github.com/your-username/review-scraper-api.git
+   git clone https://github.com/rahilshah2003/gomarbleassignment
    cd review-scraper-api
    npm install
    npx playwright install
@@ -68,5 +68,5 @@ curl "http://localhost:3000/api/reviews?url=https://example.com/product"
 
 ## Contact
 
-- **Email**: your.email@example.com
+- **Email**: rahilshah4362@gmail.com
   
